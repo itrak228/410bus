@@ -1,0 +1,67 @@
+﻿  410.cpp
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(135,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(287,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "do"
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(301,9): error C2672: "std::getline": не найдена соответствующая перегруженная функция
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(82,32):
+      может быть "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)"
+          C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(301,9):
+          "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)": ожидаются аргументы 2 — 3 предоставлены
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(75,32):
+      или       "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)"
+          C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(301,9):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': не удалось вывести аргумент шаблон для 'std::basic_string<_Elem,_Traits,_Alloc> &' из 'int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(68,32):
+      или       "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)"
+          C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(301,9):
+          "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)": ожидаются аргументы 2 — 3 предоставлены
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(25,32):
+      или       "std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)"
+          C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(301,9):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': не удалось вывести аргумент шаблон для 'std::basic_string<_Elem,_Traits,_Alloc> &' из 'int'
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(306,41): error C2109: для индекса требуется массив или указатель
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(306,59): error C2109: для индекса требуется массив или указатель
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(308,14): error C2446: ==: нет преобразования "const char [2]" в "int"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(308,17):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(312,19): error C2446: ==: нет преобразования "const char [2]" в "int"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(312,22):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(316,19): error C2446: ==: нет преобразования "const char [2]" в "int"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(316,22):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(320,19): error C2446: ==: нет преобразования "const char [2]" в "int"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(320,22):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(324,19): error C2446: ==: нет преобразования "const char [2]" в "int"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(324,22):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(328,19): error C2446: ==: нет преобразования "const char [2]" в "int"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(328,22):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(332,19): error C2446: ==: нет преобразования "const char [2]" в "int"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(332,22):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(336,19): error C2446: ==: нет преобразования "const char [2]" в "int"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(336,22):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(340,19): error C2446: ==: нет преобразования "const char [2]" в "int"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(340,22):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(353,5): error C2086: int check: переопределение
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(27,5):
+       см. объявление "check"
+  
+C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(586,5): error C2365: profit: переопределение; предыдущим определением было "переменная данных"
+      C:\Users\fitge\source\repos\Project_toy\Project_toy\410.cpp(127,5):
+       см. объявление "profit"
+  
